@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819594970643",
+    "project_id": "learningflutterfire-f569f",
+    "storage_bucket": "learningflutterfire-f569f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819594970643:android:2aaa9a9a6c391f6930a1e6",
+        "android_client_info": {
+          "package_name": "com.example.learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRlddSwQsICpVyu1svgLwYQFJkutvfYBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

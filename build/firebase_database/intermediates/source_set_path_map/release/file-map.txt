@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.database.firebase_database-core-1.6.0-0 /Users/oluyomibanjo/.gradle/caches/transforms-3/1227bb32d338e358eff4c5bf5b08270c/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-window-1.0.0-beta04-1 /Users/oluyomibanjo/.gradle/caches/transforms-3/1f063c91a907141588f51f373b1f5f4a/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-window-java-1.0.0-beta04-2 /Users/oluyomibanjo/.gradle/caches/transforms-3/6d2f8042b989e9f02a2914d91ea7c64c/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-play-services-base-18.1.0-3 /Users/oluyomibanjo/.gradle/caches/transforms-3/8a23a50f046a72ab321e149cef61a980/transformed/jetified-play-services-base-18.1.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-annotation-experimental-1.1.0-4 /Users/oluyomibanjo/.gradle/caches/transforms-3/a15c6353ebee292a754ca976f2ce177d/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-firebase-common-21.0.0-5 /Users/oluyomibanjo/.gradle/caches/transforms-3/a1e9b7e171ebe989e7c2215846d4f6bc/transformed/jetified-firebase-common-21.0.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-play-services-basement-18.3.0-6 /Users/oluyomibanjo/.gradle/caches/transforms-3/e76aed36a087f5f71489bfa0e357771e/transformed/jetified-play-services-basement-18.3.0/res
+io.flutter.plugins.firebase.database.firebase_database-main-7 /Users/oluyomibanjo/.pub-cache/hosted/pub.dev/firebase_database-11.0.1/android/src/main/res
+io.flutter.plugins.firebase.database.firebase_database-release-8 /Users/oluyomibanjo/.pub-cache/hosted/pub.dev/firebase_database-11.0.1/android/src/release/res
+io.flutter.plugins.firebase.database.firebase_database-packaged_res-9 /Users/oluyomibanjo/Documents/Flutter/Learning/learning/build/firebase_core/intermediates/packaged_res/release
+io.flutter.plugins.firebase.database.firebase_database-pngs-10 /Users/oluyomibanjo/Documents/Flutter/Learning/learning/build/firebase_database/generated/res/pngs/release
+io.flutter.plugins.firebase.database.firebase_database-resValues-11 /Users/oluyomibanjo/Documents/Flutter/Learning/learning/build/firebase_database/generated/res/resValues/release
+io.flutter.plugins.firebase.database.firebase_database-rs-12 /Users/oluyomibanjo/Documents/Flutter/Learning/learning/build/firebase_database/generated/res/rs/release
+io.flutter.plugins.firebase.database.firebase_database-mergeReleaseResources-13 /Users/oluyomibanjo/Documents/Flutter/Learning/learning/build/firebase_database/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.database.firebase_database-mergeReleaseResources-14 /Users/oluyomibanjo/Documents/Flutter/Learning/learning/build/firebase_database/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.database.firebase_database-merged_res-15 /Users/oluyomibanjo/Documents/Flutter/Learning/learning/build/firebase_database/intermediates/merged_res/release

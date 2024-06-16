@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAM2z0_N5_HfFuAZDpDOGlUBKSAahp6pjQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>819594970643</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.learning</string>
+	<key>PROJECT_ID</key>
+	<string>learningflutterfire-f569f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learningflutterfire-f569f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:819594970643:ios:24265f6cd5d66fcc30a1e6</string>
+</dict>
+</plist>
